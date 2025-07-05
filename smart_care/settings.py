@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
-CSRF_TRUSTED_ORIGINS = ['https://bookpilot-library-management.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://smart-care-hospital-9vp4.onrender.com']
 
 # Application definition
 
